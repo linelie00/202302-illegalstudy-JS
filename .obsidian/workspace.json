@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assignment/1week/1-1.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assignment/1week/1-1.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assignment/1week/1-1.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assignment/1week/1-1.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cdf25122000aaa7",
+  "active": "e0168c88b8e4ef17",
   "lastOpenFiles": [
+    "README.md",
+    "Untitled.md",
+    "assignment/1week/1-1.md",
+    "gitignore",
+    "새 텍스트 문서.txt",
     "lecture_document/1장 프로그래밍.pdf"
   ]
 }
